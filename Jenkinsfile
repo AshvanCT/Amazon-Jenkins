@@ -33,7 +33,7 @@ pipeline {
   }
     
   failure{
-       echo 'Failure'
+       echo 'Failure haha'
    }
 
   }
